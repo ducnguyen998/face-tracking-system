@@ -1,25 +1,42 @@
-2024-05-29 21:01:27,973 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
-2024-05-29 21:01:36,196 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
-2024-05-29 21:01:37,125 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.00s
-2024-05-29 21:03:12,686 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /route_mouse_report/mouse 1.1" 200 0.00s
-2024-05-29 21:03:30,937 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /route_mouse_report/mouse 1.1" 200 0.00s
-2024-05-29 21:03:44,298 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /mouse 1.1" 404 0.00s
-2024-05-29 21:04:17,690 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /route_mouse_report/mouse 1.1" 404 0.00s
-2024-05-29 21:04:56,707 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /route_mouse_report/mouse 1.1" 404 0.00s
-2024-05-29 21:05:31,040 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
-2024-05-29 21:05:31,221 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.00s
-2024-05-29 21:05:36,424 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/mouse 1.1" 200 0.00s
-2024-05-29 21:06:02,631 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/mouse 1.1" 404 0.00s
-2024-05-29 21:06:11,179 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
-2024-05-29 21:06:11,290 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.00s
-2024-05-29 21:06:15,292 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /report/mouse 1.1" 200 0.00s
-2024-05-29 21:06:32,537 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
-2024-05-29 21:06:32,620 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.00s
-2024-05-29 21:06:36,434 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.00s
-2024-05-29 21:06:46,628 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.00s
-2024-05-29 21:06:47,630 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.00s
-2024-05-29 21:06:59,428 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /mouse/report 1.1" 405 0.00s
-2024-05-29 21:07:31,014 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.00s
-2024-05-29 21:07:32,031 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.00s
-2024-05-29 21:07:32,529 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.00s
-2024-05-29 21:07:32,983 - c:\Users\Ryutaros\Documents\SDH\INT6025 - Tuong tac nguoi va may\APPs\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.00s
+2024-06-15 11:50:22,314 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,327 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,328 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,329 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,329 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,333 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,338 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,338 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,344 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,349 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,352 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,353 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,353 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,357 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,360 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,361 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,363 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,369 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.00s
+2024-06-15 11:50:22,369 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.00s
+2024-06-15 11:50:22,376 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,381 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,383 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,387 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,391 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,392 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,396 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,403 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,405 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,406 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,413 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,416 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,417 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,425 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.01s
+2024-06-15 11:50:22,426 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.02s
+2024-06-15 11:50:22,426 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.02s
+2024-06-15 11:50:22,433 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.02s
+2024-06-15 11:50:22,434 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.02s
+2024-06-15 11:50:22,435 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.02s
+2024-06-15 11:50:22,443 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "POST /mouse/report 1.1" 200 0.00s
+2024-06-15 12:00:33,682 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /mouse/ws 1.1" 404 0.00s
+2024-06-15 12:00:40,376 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
+2024-06-15 12:00:40,522 - e:\Master\HMI\face-tracking-system\middleware\http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.00s

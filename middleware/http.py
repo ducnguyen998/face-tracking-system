@@ -13,7 +13,7 @@ from starlette.requests import (
     Request
 )
 
-from utils.logger import (
+from utilities.logger import (
     Logger
 )
 
